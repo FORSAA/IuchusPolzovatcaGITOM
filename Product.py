@@ -32,3 +32,5 @@ class Product:
 
     def qqqqqqq(self):
         return 1
+    def zzzzzzzzzzz(self):
+        return 2
