@@ -29,3 +29,6 @@ class Product:
         else:
             price = self.__price * count
         return price
+
+    def qqqqqqq(self):
+        return 1
